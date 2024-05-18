@@ -2,6 +2,8 @@
 
 Welcome to the Spotify Music Player! This is a simple clone of the Spotify music player where you can play and pause music using JavaScript.
 
+## Live Link : https://developed-by-pratik.github.io/Spotify-Music-Player/
+
 ## Features
 
 - Play and pause music
